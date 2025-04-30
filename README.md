@@ -23,7 +23,7 @@ Here are a few things I'm working on or planning:
   - A system that allows the users to take quizzes and saves their scores to the database.
 
 📫 Let's Connect
-- 🌐 [LinkedIn](www.linkedin.com/in/kaito-onyejeli-2b5585318)
+- 🌐 [LinkedIn](#)(www.linkedin.com/in/kaito-onyejeli-2b5585318)
 
   
 <!---
