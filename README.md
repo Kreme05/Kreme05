@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kreme05
-- 👀 I’m interested in Robotics and AI.
 - 🎓 I’m  a first-year Computer Science and AI student with a strong foundation in programming, software development, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
 - 😄 Pronouns: she/her
 
@@ -24,7 +23,7 @@ Here are a few things I'm working on or planning:
   - A system that allows the users to take quizzes and saves their scores to the database.
 
 📫 Let's Connect
-- 🌐 [LinkedIn](#www.linkedin.com/in/kaito-onyejeli-2b5585318)
+- 🌐 [LinkedIn](www.linkedin.com/in/kaito-onyejeli-2b5585318)
 
   
 <!---
