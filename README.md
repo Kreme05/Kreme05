@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Kreme05
 🚀 About Me
-  - 🎓 I’m  a first-year Computer Science and AI student with a strong foundation in programming, software development, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
+  - 🎓 I’m  a first-year Computer Science and AI student with a strong foundation in programming, software engineering, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
   - 😄 Pronouns: she/her
   - 🔭 I'm currently learning:
     - Python, Java, and C#
@@ -8,7 +8,7 @@
     - Web development (HTML, CSS, JavaScript)
   - 🌱 My goal this year is to build small projects and learn more programming languages
   - 💡 I'm interested in:
-    - Software development
+    - Software engineering
     - AI & Machine Learning
     - Robotics
 
