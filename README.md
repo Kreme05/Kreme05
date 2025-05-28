@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Kreme05
+## 👋 Hi, I’m @Kaito Onyejeli
 🚀 About Me
   - 🎓 I’m  a first-year Computer Science and AI student with a strong foundation in programming, software engineering, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
   - 😄 Pronouns: she/her
