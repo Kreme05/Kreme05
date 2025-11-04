@@ -14,12 +14,14 @@
 
 📂 Projects
 - Here are a few things I'm working on or planning:
-  - 🌐 [Simple School Website (HTML/CSS/JS)](#)
-    - A school website with a login and registration system, timer, calculator and todo list.
-  - 🛒 [E-commerce System (MySQL, Spring Boot)](#)
-    - A system with user authentication, a cart and checkout
-  - 🧠 [Online Quiz System (JavaFx)](#)
-    - A system that allows the users to take quizzes and saves their scores to the database.
+   - 👔 [BAME Professional Network Platform (React/TypeScript/Vite/Tailwind CSS/shadcn-ui)](#hhttps://github.com/salmaazzam2/Huddle-Hive-Hackathon)
+    - A project tackling barriers for BAME students entering green careers by co-developing a platform that centralizes 50+ opportunities, enhances visibility, and connects users to mentors, winning 2nd place at HuddleHive2025.
+  - 💰 [Wealth Management Platform (JavFX)](#https://github.com/Kreme05/Quinpoint-Capital)
+    - An integrated wealth management app for Quinpoint Capital that unifies onboarding, portfolio tracking, and client communication in one seamless JavaFX platform.
+  - 📱 [Messaging System (JavaFx)](#https://github.com/Kreme05/Messaging-System)
+    -A modular Java system enabling secure, encrypted communication between agents with unique IDs, clearances, and custom inboxes.
+  - 🛒 [Delivery Service (JavaFx)](#https://github.com/Kreme05/Delivery-Service)
+    - AA modular Java simulation of parcel routing through sorting offices, managing data, file I/O, and delivery rules for perishable and non-perishable items.
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaito-onyejeli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaitoonyejeli05@hotmail.com) 
