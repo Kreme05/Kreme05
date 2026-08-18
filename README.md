@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Kaito Onyejeli
 🚀 About Me
-  - 🎓 I’m a 2nd year Computer Science and AI student with a strong foundation in programming, software engineering, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
+  - 🎓 I’m a 3rd year Computer Science and AI student with a strong foundation in programming, software engineering, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
   - 😄 Pronouns: she/her
   - 🔭 I'm currently learning:
-    - Python, Java, and C#
+    - Python and Java
     - Git and GitHub for version control
     - Web development (HTML, CSS, JavaScript)
   - 🌱 My goal this year is to build small projects and learn more programming languages
