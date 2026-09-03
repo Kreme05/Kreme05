@@ -9,25 +9,27 @@
   - 🌱 My goal this year is to build small projects and learn more programming languages
   - 💡 I'm interested in:
     - Software engineering
+    - System engineering
     - AI & Machine Learning
-    - Robotics
 
 📂 Projects
-- Here are a few things I'm working on or planning:
+- Here are a few things I've worked on:
    - [BAME Professional Network Platform (React/TypeScript/Vite/Tailwind CSS/shadcn-ui)](https://github.com/salmaazzam2/Huddle-Hive-Hackathon)
      - A project tackling barriers for BAME students entering green careers by co-developing a platform that centralizes 50+ opportunities, enhances visibility, and connects users to mentors, winning 2nd place at HuddleHive2025.
+  - [Image Processing (Java)](https://github.com/Kreme05/Image-Processing)
+    - A custom image processing application built to perform core computer vision and pixel-manipulation algorithms without relying on heavy external libraries. 
   - [Wealth Management Platform (JavaFX)](https://github.com/Kreme05/Quinpoint-Capital)
     - An integrated wealth management app for Quinpoint Capital that unifies onboarding, portfolio tracking, and client communication in one seamless JavaFX platform.
-  - [Messaging System (JavaFx)](https://github.com/Kreme05/Messaging-System)
-    - A modular Java system enabling secure, encrypted communication between agents with unique IDs, clearances, and custom inboxes.
-  - [Delivery Service (JavaFx)](https://github.com/Kreme05/Delivery-Service)
-    - A modular Java simulation of parcel routing through sorting offices, managing data, file I/O, and delivery rules for perishable and non-perishable items.
+  - [Jewel Case Game (Java)](https://github.com/pavliichukruslan2409849/jewel-chase)
+    - An interactive game implementation focusing on core logic, asset management, and smooth user interaction mechanics.
+  - [Applied Data Science (Parkinson's Disease)](https://github.com/Kreme05/Applied-Data-Science-Parkinson-s-Disease)
+     - A machine learning and data science project analysing biomedical datasets to uncover patterns and assist in health indicator prediction.
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaito-onyejeli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaitoonyejeli05@hotmail.com) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kreme05&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kreme05&theme=merko&hide_border=false)<br/>
