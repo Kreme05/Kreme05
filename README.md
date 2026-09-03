@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Kaito Onyejeli
 🚀 About Me
-  - 🎓 I’m a 3rd year Computer Science and AI student with a strong foundation in programming, software engineering, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, AI, and cloud computing.  
+  - 🎓 I’m a 3rd year Computer Science and AI student with a strong foundation in programming, software engineering, and problem-solving. Passionate about applying technical skills to real-world problems and expanding expertise in software engineering, system engineering and AI.  
   - 😄 Pronouns: she/her
   - 🔭 I'm currently learning:
     - Python and Java
     - Git and GitHub for version control
-    - Web development (HTML, CSS, JavaScript)
+    - Matlab
   - 🌱 My goal this year is to build small projects and learn more programming languages
   - 💡 I'm interested in:
     - Software engineering
@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaito-onyejeli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaitoonyejeli05@hotmail.com) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat&logo=MATLAB&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kreme05&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kreme05&theme=merko&hide_border=false)<br/>
